@@ -12,7 +12,7 @@ You find the example projects in the Vivado folder
 * generic
 
 If you own a CMOD-A7 board you can use the example project for this board directy otherwise choose generic.
-(For the generic project customize the included system.xdc file with a clock and a reset signal)
+(For the generic project customize the included system.xdc file with a clock and a reset signal. Set your FPGA type in the project settings.)
 
 ### Build the project
 
