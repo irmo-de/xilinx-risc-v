@@ -19,7 +19,7 @@ set _xil_proj_name_ "RISC-V"
 set orig_proj_dir "[file normalize "$origin_dir/"]"
 
 # Create project
-create_project ${_xil_proj_name_} . -part xc7a15tcpg236-1
+create_project ${_xil_proj_name_} . -part xc7a35tcpg236-1
 
 # Set the directory path for the new project
 set proj_dir [get_property directory [current_project]]
