@@ -18,6 +18,7 @@ If you own a CMOD-A7 board you can use the example project for this board direct
 
 #### 1.) Open Vivado and open the TCL console
 
+
 ![Vivado_TCL](/images/vivado_tcl_1.png)
 
 #### 2.) Run the included build-project.tcl script
