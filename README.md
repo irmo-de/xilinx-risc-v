@@ -1,9 +1,11 @@
-# xilinx-risc-v
+# amd-xilinx-risc-v
 
 ## Building the project with Vivado 2020 (webpack edition works as well)
 
 
 ### Example projects
+
+# Risc V implementation for AMD Xilinx Virtex, Kintex, Spartan and Artix
 
 You find the example projects in the Vivado folder
 
