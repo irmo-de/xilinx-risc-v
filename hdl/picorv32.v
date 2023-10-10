@@ -19,6 +19,8 @@
 
 // 2023-05-14 Bugfixes
 
+// For Xilinx AMD FPGAs
+
 /* verilator lint_off WIDTH */
 /* verilator lint_off PINMISSING */
 /* verilator lint_off CASEOVERLAP */
